@@ -1,0 +1,2 @@
+# searchFilesByNamesAndKeywords
+需要查找殆知阁古代文献藏书2.0版（全TXT版）中某些文件中包含keywords的内容，于是写了这段代码代劳
