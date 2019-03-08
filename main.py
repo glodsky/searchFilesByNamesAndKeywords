@@ -88,7 +88,7 @@ def main():
     if os.path.exists(cur_dir) == False :
         print("Not Exists %s"%cur_dir)
         exit(0)
-    extendname = ['.txt','.pdf']
+    extendname = ['.txt']
     fname_parts = []#['文始','通玄']  # ['文始真经'] # []表示搜索当前目录中所有文件
     key_words =['机巧','机械'] # ['巨胜']#['奇物'] ['龙','凤'] #['机巧','机械']  # ['造化','阴阳']
     print("cur_dir = %s  key_word=%s\n"%(cur_dir," # ".join(key_words)))
